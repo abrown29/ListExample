@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListsExample\ListsExample\bin\Debug\ListsExample.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListsExample\ListsExample\bin\Debug\ListsExample.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListsExample\ListsExample\bin\Debug\ListsExample.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListsExample\ListsExample\obj\Debug\ListsExample.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListsExample\ListsExample\obj\Debug\ListsExample.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ListsExample\ListsExample\obj\Debug\ListsExample.pdb
